@@ -1,0 +1,8 @@
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\6-AtribuiçoesDeVariaveis\bin\Debug\6-AtribuiçoesDeVariaveis.exe.config
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\6-AtribuiçoesDeVariaveis\bin\Debug\6-AtribuiçoesDeVariaveis.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\6-AtribuiçoesDeVariaveis\bin\Debug\6-AtribuiçoesDeVariaveis.pdb
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\6-AtribuiçoesDeVariaveis\obj\Debug\6-AtribuiçoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\6-AtribuiçoesDeVariaveis\obj\Debug\6-AtribuiçoesDeVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\6-AtribuiçoesDeVariaveis\obj\Debug\6-AtribuiçoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\6-AtribuiçoesDeVariaveis\obj\Debug\6-AtribuiçoesDeVariaveis.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\6-AtribuiçoesDeVariaveis\obj\Debug\6-AtribuiçoesDeVariaveis.pdb

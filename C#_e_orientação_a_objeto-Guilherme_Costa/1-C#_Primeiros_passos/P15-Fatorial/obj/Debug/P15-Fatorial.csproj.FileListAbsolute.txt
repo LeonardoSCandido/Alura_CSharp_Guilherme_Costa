@@ -1,0 +1,8 @@
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P15-Fatorial\bin\Debug\P15-Fatorial.exe.config
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P15-Fatorial\bin\Debug\P15-Fatorial.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P15-Fatorial\bin\Debug\P15-Fatorial.pdb
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P15-Fatorial\obj\Debug\P15-Fatorial.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P15-Fatorial\obj\Debug\P15-Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P15-Fatorial\obj\Debug\P15-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P15-Fatorial\obj\Debug\P15-Fatorial.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P15-Fatorial\obj\Debug\P15-Fatorial.pdb

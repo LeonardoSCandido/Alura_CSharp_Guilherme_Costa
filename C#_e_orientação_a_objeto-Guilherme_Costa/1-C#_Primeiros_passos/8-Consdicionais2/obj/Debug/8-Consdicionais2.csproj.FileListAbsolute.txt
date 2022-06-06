@@ -1,0 +1,8 @@
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\8-Consdicionais2\bin\Debug\8-Consdicionais2.exe.config
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\8-Consdicionais2\bin\Debug\8-Consdicionais2.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\8-Consdicionais2\bin\Debug\8-Consdicionais2.pdb
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\8-Consdicionais2\obj\Debug\8-Consdicionais2.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\8-Consdicionais2\obj\Debug\8-Consdicionais2.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\8-Consdicionais2\obj\Debug\8-Consdicionais2.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\8-Consdicionais2\obj\Debug\8-Consdicionais2.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\8-Consdicionais2\obj\Debug\8-Consdicionais2.pdb

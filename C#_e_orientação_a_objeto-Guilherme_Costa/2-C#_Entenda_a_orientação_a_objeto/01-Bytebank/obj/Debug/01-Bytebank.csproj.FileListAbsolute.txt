@@ -1,0 +1,8 @@
+C:\Users\leona\OneDrive\Documentos\Bytebank\01-Bytebank\bin\Debug\01-Bytebank.exe.config
+C:\Users\leona\OneDrive\Documentos\Bytebank\01-Bytebank\bin\Debug\01-Bytebank.exe
+C:\Users\leona\OneDrive\Documentos\Bytebank\01-Bytebank\bin\Debug\01-Bytebank.pdb
+C:\Users\leona\OneDrive\Documentos\Bytebank\01-Bytebank\obj\Debug\01-Bytebank.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\Bytebank\01-Bytebank\obj\Debug\01-Bytebank.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Documentos\Bytebank\01-Bytebank\obj\Debug\01-Bytebank.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\Bytebank\01-Bytebank\obj\Debug\01-Bytebank.exe
+C:\Users\leona\OneDrive\Documentos\Bytebank\01-Bytebank\obj\Debug\01-Bytebank.pdb

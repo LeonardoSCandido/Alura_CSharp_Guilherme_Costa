@@ -1,0 +1,8 @@
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\10-TesteEscopo\bin\Debug\10-TesteEscopo.exe.config
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\10-TesteEscopo\bin\Debug\10-TesteEscopo.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\10-TesteEscopo\bin\Debug\10-TesteEscopo.pdb
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\10-TesteEscopo\obj\Debug\TesteEscopo.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\10-TesteEscopo\obj\Debug\TesteEscopo.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\10-TesteEscopo\obj\Debug\TesteEscopo.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\10-TesteEscopo\obj\Debug\10-TesteEscopo.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\10-TesteEscopo\obj\Debug\10-TesteEscopo.pdb

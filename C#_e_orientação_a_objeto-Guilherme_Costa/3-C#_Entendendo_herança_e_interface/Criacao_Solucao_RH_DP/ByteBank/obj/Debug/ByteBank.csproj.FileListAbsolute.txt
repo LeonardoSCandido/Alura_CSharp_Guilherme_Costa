@@ -1,0 +1,8 @@
+C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\obj\Debug\ByteBank.pdb

@@ -1,0 +1,8 @@
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P14-Exercicio\bin\Debug\P14-Exercicio.exe.config
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P14-Exercicio\bin\Debug\P14-Exercicio.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P14-Exercicio\bin\Debug\P14-Exercicio.pdb
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P14-Exercicio\obj\Debug\P14-Exercicio.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P14-Exercicio\obj\Debug\P14-Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P14-Exercicio\obj\Debug\P14-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P14-Exercicio\obj\Debug\P14-Exercicio.exe
+C:\Users\leona\OneDrive\Documentos\AprendendoCSharp\P14-Exercicio\obj\Debug\P14-Exercicio.pdb
