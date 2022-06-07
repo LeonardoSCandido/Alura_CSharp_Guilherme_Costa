@@ -6,3 +6,11 @@ C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteB
 C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
 C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\obj\Debug\ByteBank.exe
 C:\Users\leona\OneDrive\Documentos\Bytebank\Criacao_Solucao_RH_DP\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\leona\OneDrive\Documentos\Cursos_Alura\C#_e_orientação_a_objeto-Guilherme_Costa\3-C#_Entendendo_herança_e_interface\Criacao_Solucao_RH_DP\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\leona\OneDrive\Documentos\Cursos_Alura\C#_e_orientação_a_objeto-Guilherme_Costa\3-C#_Entendendo_herança_e_interface\Criacao_Solucao_RH_DP\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\leona\OneDrive\Documentos\Cursos_Alura\C#_e_orientação_a_objeto-Guilherme_Costa\3-C#_Entendendo_herança_e_interface\Criacao_Solucao_RH_DP\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\leona\OneDrive\Documentos\Cursos_Alura\C#_e_orientação_a_objeto-Guilherme_Costa\3-C#_Entendendo_herança_e_interface\Criacao_Solucao_RH_DP\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\Cursos_Alura\C#_e_orientação_a_objeto-Guilherme_Costa\3-C#_Entendendo_herança_e_interface\Criacao_Solucao_RH_DP\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\leona\OneDrive\Documentos\Cursos_Alura\C#_e_orientação_a_objeto-Guilherme_Costa\3-C#_Entendendo_herança_e_interface\Criacao_Solucao_RH_DP\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\Cursos_Alura\C#_e_orientação_a_objeto-Guilherme_Costa\3-C#_Entendendo_herança_e_interface\Criacao_Solucao_RH_DP\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\leona\OneDrive\Documentos\Cursos_Alura\C#_e_orientação_a_objeto-Guilherme_Costa\3-C#_Entendendo_herança_e_interface\Criacao_Solucao_RH_DP\ByteBank\obj\Debug\ByteBank.pdb

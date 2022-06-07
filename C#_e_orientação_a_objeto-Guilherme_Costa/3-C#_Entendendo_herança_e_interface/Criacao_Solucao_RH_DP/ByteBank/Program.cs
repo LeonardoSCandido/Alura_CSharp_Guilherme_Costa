@@ -1,4 +1,5 @@
 ﻿using ByteBank.Funcionarios;
+using ByteBank.Sistemas;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,10 +12,34 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
+            //CaucularBonificacao();
+
+            UsarSistema();
+
             Console.ReadLine();
         }
 
-        public void CaucularBonificacao()
+        public static void UsarSistema()
+        {
+            SistemasInternos sistemaInterno = new SistemasInternos();
+
+            Diretor Laura = new Diretor("643.742.988.01");
+            Laura.Nome = "Laura";
+            Laura.Senha = "123";
+
+            GerenteDeConta Maria = new GerenteDeConta("306.741.875.94");
+            Maria.Nome = "Maria";
+            Maria.Senha = "abc";
+
+            ParceiroComercial parceiro = new ParceiroComercial();
+            parceiro.Senha = "123456";
+
+            sistemaInterno.Logar(parceiro, "123456");
+            sistemaInterno.Logar(Laura, "123");
+            sistemaInterno.Logar(Maria, "abc");
+        }
+
+        public static void CaucularBonificacao()
         {
             GerenciadorBonificacao gerenciadorBonificacao = new GerenciadorBonificacao();
 
@@ -34,6 +59,8 @@ namespace ByteBank
             gerenciadorBonificacao.Registrar(Laura);
             gerenciadorBonificacao.Registrar(Pedro);
             gerenciadorBonificacao.Registrar(Maria);
+
+            Console.WriteLine("Total de bonificacao do mês " + gerenciadorBonificacao.GetTotalBonificacao());
 
         }
     }
