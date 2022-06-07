@@ -1,4 +1,4 @@
-﻿using ByteBank.Sistemas;
+using ByteBank.Sistemas;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +11,10 @@ namespace ByteBank
     {
         public string Senha { get; set; }
 
+
         public bool Autenticar(string senha)
         {
+        
             return Senha == senha;
         }
 
