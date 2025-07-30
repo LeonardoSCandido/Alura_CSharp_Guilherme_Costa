@@ -1,4 +1,4 @@
-﻿using ByteBank.Sistemas;
+using ByteBank.Sistemas;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,11 +9,14 @@ namespace ByteBank
 {
     public class ParceiroComercial : IAutenticavel
     {
-        public string Senha { get; set; }
+        
+        public string Senho { get; set; }
+
 
         public bool Autenticar(string senha)
         {
-            return Senha == senha;
+        
+            return Senho == senha;
         }
 
     }
